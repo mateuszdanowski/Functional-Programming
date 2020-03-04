@@ -1,4 +1,4 @@
-# WPF
+# Introduction to Functional Programming
 
 Projects for the Introduction to Functional Programming course, MIM UW 2018/19 (OCaml).
 
